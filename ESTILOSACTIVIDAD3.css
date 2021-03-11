@@ -1,56 +1,138 @@
 .PRINCIPAL{
 
-border:solid 15px black;
+border:solid 15px #FE2E64;
 
 position: absolute;
 top: 50px;
 left: 100px;
 width: 1180px;
 height: 800px;
-background:green;
+background:#FF637D;
 
 }
 .TITULO1{
-	border:solid 10px black;
+	border:solid 10px #00BFFF;
 position: absolute;
 top: 65px;
 left: 100px;
 width: 970px;
 height: 100px;
-background: yellow;
+background: #66D7D1;
 
 }
 .TITULO{
 position: absolute;
-	top: 65px; 
-	left: 250px;	
+	top: 25px; 
+	left: 130px;	
 	color: black;
-	font-size: 50px;
+	font-size: 30px;
+	font-family: cursive;
 }
 .SECCION1{
-	border:solid 10px black;
+	border:solid 10px #F7FE2E;
 position: absolute;
 top: 250px;
 left: 100px;
 width: 470px;
 height: 450px;
-background: red;
+background:#FFF87F;
 
 }
 .SECCION2{
-	border:solid 10px black;
+	border:solid 10px #F7FE2E;
 position: absolute;
 top: 250px;
 left: 600px;
 width: 470px;
 height: 450px;
-background: blue;
+background:#FFF87F;
 
 }
+.SECCION12{
+	border:solid 10px #FACC2E;
+position: absolute;
+top: 20px;
+left: 50px;
+width: 350px;
+height: 100px;
+background:#F4F1BB;
 
+}
+.SECCION13{
+	border:solid 10px #FACC2E;
+position: absolute;
+top: 150px;
+left: 50px;
+width: 350px;
+height: 100px;
+background:#F4F1BB;
 
+}
+.SECCION22{
+	border:solid 10px #FACC2E;
+position: absolute;
+top: 20px;
+left: 50px;
+width: 350px;
+height: 200px;
+background:#F4F1BB;
 
+}
+.SECCION14{
+	position: absolute;
+	top: 280px;
+	left: 85px;
+	width: 300px;
+	height: 150px;
+	background: url("IMAGEN1.jpg");
+	background-size: cover;
+}
+.SECCION24{
+	position: absolute;
+	top: 280px;
+	left: 50px;
+	width: 150px;
+	height: 150px;
+	background: url("ICON2.jpg");
+	background-size: cover;
+}
+.SECCION23{
+	position: absolute;
+	top: 280px;
+	left: 270px;
+	width: 150px;
+	height: 150px;
+	background: url("ICON1.png");
+	background-size: cover;
+}
 
+.TITULONO1{
+position: absolute;
+	top: 0px; 
+	left: 0px;	
+	color: black;
+	font-size: 30px;
+	font-family: cursive;
+}
+
+.TITULONO2{
+position: absolute;
+	top: 0px; 
+	left: 0px;	
+	color: black;
+	font-size: 30px;
+	font-family: cursive;
+}
+
+.TITULOSNUMERO3
+{
+position: absolute;
+	top: 0px; 
+	left: 0px;	
+	color: black;
+	font-size: 20px;
+	font-family: cursive;
+}
 
 
 
