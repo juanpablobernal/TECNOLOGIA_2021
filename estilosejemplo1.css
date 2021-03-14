@@ -1,0 +1,17 @@
+.RICARDO
+{
+font-family:RICARDO;
+font-size: 50px
+}
+.HIJO
+{
+}
+
+@font-face{
+ font-family:RICARDO;
+ src: url(fuente.ttf);	
+}
+.cuadrotransparente
+{
+	background: rgba(23,61,121,0);
+}

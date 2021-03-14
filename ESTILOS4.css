@@ -1,0 +1,193 @@
+.PAPA{
+
+border:solid 15px #FE2E64;
+
+position: absolute;
+top: 50px;
+left: 100px;
+width: 1850px;
+height: 1085px;
+background:#FF637D;
+
+}
+.HIJO1{
+  position: absolute;
+	top: 35px;
+	left: 85px;
+	width: 1665px;
+	height: 250px;
+	background: url("WALLPAPER1.jpg");
+	background-size: cover;
+}
+.HIJO2{
+border:solid 15px #F7FE2E;
+
+position: absolute;
+top: 45px;
+left: 115px;
+width: 1575px;
+height: 200px;
+background: rgba(23,61,121,0);
+}
+.NIETO1{
+border:solid 15px #FE2E64;
+
+position: absolute;
+top: 55px;
+left: 100px;
+width: 1445px;
+height: 100px;
+background: rgba(43,51,131,0.7);
+
+}
+.BISNIETO2{
+	font-family:BISNIETO2;
+font-size: 50px;
+position: absolute;
+	top: 25px; 
+	left: 570px;	
+	color: black;
+	
+}
+@font-face{
+ font-family:BISNIETO2;
+ src: url(aAhaWow.ttf);	
+}
+ .HIJO3{
+ 		border:solid 10px #F7FE2E;
+position: absolute;
+top: 320px;
+left: 75px;
+width: 800px;
+height: 700px;
+background:#FFF87F;
+ }
+ .TITULO1
+ {
+ 	font-family:BISNIETO2;
+font-size: 50px;
+position: absolute;
+	top: 25px; 
+	left: 200px;	
+	color: black;
+ }
+@font-face{
+ font-family:BISNIETO2;
+ src: url(Babalu.ttf);	
+}
+.COLORSOLIDO
+{
+	border:solid 10px #FFBF00;
+position: absolute;
+top: 95px;
+left: 45px;
+width: 680px;
+height: 560px;
+background:#FF8000;	
+}
+
+.PARRAFO1{
+
+	border:solid 10px #FFBF00;
+position: absolute;
+top: 15px;
+left: 45px;
+width: 575px;
+height: 250px;
+background:rgba(23,61,121,0);	
+}
+.PARRAFO2
+ {
+ 	font-family:PARRAFO2;
+font-size: 50px;
+position: absolute;
+	top: 25px; 
+	left: 50px;	
+	color: black;
+ }
+@font-face{
+ font-family:PARRAFO2;
+ src: url(Babalu.ttf);	
+}
+
+ .NUMERO1{
+ 		border:solid 10px #F7FE2E;
+position: absolute;
+top: 320px;
+left: 930px;
+width: 800px;
+height: 700px;
+background:#FFF87F;
+ }
+
+ .NUMERO2{
+ 		border:solid 10px #DF0101;
+position: absolute;
+top: 20px;
+left: 20px;
+width: 250px;
+height: 250px;
+background:#FFF87F;
+ }
+.NUMERO3{
+ 		border:solid 10px #DF0101;
+position: absolute;
+top: 20px;
+left: 500pX;
+width: 250px;
+height: 250px;
+background:#FFF87F;
+ }
+ .NUMERO4{
+ 		border:solid 10px #DF0101;
+position: absolute;
+top: 390px;
+left: 20px;
+width: 250px;
+height: 250px;
+background:#FFF87F;
+ }
+ .NUMERO5{
+ 		border:solid 10px #DF0101;
+position: absolute;
+top: 390px;
+left: 500pX;
+width: 250px;
+height: 250px;
+background:#FFF87F;
+ }
+ .NUMERO6{
+ 		border:solid 10px #DF0101;
+position: absolute;
+top: 170px;
+left: 255pX;
+width: 250px;
+height: 250px;
+background:#FFF87F;
+ }
+ 	.TEXTO
+ {
+ 	font-family:PARRAFO2;
+font-size: 50px;
+position: absolute;
+	top: 25px; 
+	left: 50px;	
+	color: black;
+ }
+@font-face{
+ font-family:TEXTO;
+ src: url(Babalu.ttf);	
+}
+.FIGURITA
+ {
+ 	font-family:FIGURITA;
+font-size: 120px;
+position: absolute;
+	top: 150px; 
+	left: 50px;	
+	color: black;
+ }
+@font-face{
+ font-family:FIGURITA;
+ src: url(azu1.ttf);	
+}
