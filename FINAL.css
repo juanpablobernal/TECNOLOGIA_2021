@@ -1,0 +1,254 @@
+.GUITARRA{
+	 position: absolute;
+	top: 305px;
+	left: 425px;
+	width: 400px;
+	height: 400px;
+	background: url("GUITARRA.png");
+	background-size: cover;
+	transform: rotate(-50deg);
+	z-index:5;
+}
+.TAMBOR{
+		left: 530px;
+	width: 250px;
+	height: 250px;
+	background: url("TAMBOR.png");
+	background-size: cover;
+	transform: rotate(10deg);
+	z-index:4;
+top: 275px;position: absolute;
+
+	 }
+
+.FONDO
+{
+position: absolute;
+top: 0px;
+left: 380px;
+width: 600px;
+height: 700px;
+background:#FE2E2E;
+	z-index:1;
+
+}
+.BANDERA1{
+	 position: absolute;
+	top: 305px;
+	left: 900px;
+	width: 50px;
+	height: 50px;
+	background: url("CHILE.png");
+	background-size: cover;
+	transform: rotate(0deg);
+	z-index:5;
+	border-radius: 200px;
+}
+.BANDERA2{
+	 position: absolute;
+	top: 335px;
+	left: 900px;
+	width: 50px;
+	height: 50px;
+	background: url("COLOMBIA.png");
+	background-size: cover;
+	transform: rotate(0deg);
+	z-index:6;
+	border-radius: 200px;
+}
+.BANDERA3{
+	 position: absolute;
+	top: 365px;
+	left: 900px;
+	width: 50px;
+	height: 50px;
+	background: url("BOLIVIA.png");
+	background-size: cover;
+	transform: rotate(0deg);
+	z-index:7;border-radius: 200px;
+}
+.BANDERA4{
+	 position: absolute;
+	top: 395px;
+	left: 900px;
+	width: 50px;
+	height: 50px;
+	background: url("ECUADOR.png");
+	background-size: cover;
+	transform: rotate(0deg);
+	z-index:8;border-radius: 200px;
+}
+.BANDERA5{
+	 position: absolute;
+	top: 425px;
+	left: 900px;
+	width: 50px;
+	height: 50px;
+	background: url("PARAGUAY.png");
+	background-size: cover;
+	transform: rotate(0deg);
+	z-index:9;
+	border-radius: 200px;
+}
+.BANDERA6{
+	 position: absolute;
+	top: 455px;
+	left: 900px;
+	width: 50px;
+	height: 50px;
+	background: url("URUGUAY.png");
+	background-size: cover;
+	transform: rotate(0deg);
+	z-index:10;
+	border-radius: 200px;
+}
+.PAIS2{
+	font-family:PAIS2;
+	 position: absolute;
+	top: 305px;
+	left: 820px;
+	width: 50px;
+	height: 50px;
+z-index:11;
+}	
+@font-face{
+ font-family:PAIS2;
+ src: url(aAhaWow.ttf);	
+}
+.PAIS3{
+	font-family:PAIS3;
+	 position: absolute;
+	top: 335px;
+	left: 820px;
+	width: 50px;
+	height: 50px;
+z-index:11;
+}	
+@font-face{
+ font-family:PAIS3;
+ src: url(aAhaWow.ttf);	
+}
+.PAIS4{
+	font-family:PAIS4;
+	 position: absolute;
+	top: 365px;
+	left: 820px;
+	width: 50px;
+	height: 50px;
+z-index:11;
+}	
+@font-face{
+ font-family:PAIS4;
+ src: url(aAhaWow.ttf);	
+}
+.PAIS5{
+	font-family:PAIS5;
+	 position: absolute;
+	top: 395px;
+	left: 820px;
+	width: 50px;
+	height: 50px;
+z-index:11;
+}	
+@font-face{
+ font-family:PAIS5;
+ src: url(aAhaWow.ttf);	
+}
+.PAIS6{
+	font-family:PAIS6;
+	 position: absolute;
+	top: 425px;
+	left: 820px;
+	width: 50px;
+	height: 50px;
+z-index:11;
+}	
+@font-face{
+ font-family:PAIS6;
+ src: url(aAhaWow.ttf);	
+}
+.PAIS7{
+	font-family:PAIS7;
+	 position: absolute;
+	top: 455px;
+	left: 820px;
+	width: 50px;
+	height: 50px;
+	z-index:11;
+}
+@font-face{
+ font-family:PAIS7;
+ src: url(aAhaWow.ttf);	
+}
+.TEXTO1{
+	font-family:TEXTO1;
+	 position: absolute;
+	top: 50px;
+	left: 500px;
+	font-size: 35px;
+	z-index:11;
+}
+@font-face{
+ font-family:TEXTO1;
+ src: url(aAhaWow.ttf);	
+}
+.TEXTO2{	font-family:TEXTO2;
+	 position: absolute;
+	top:85px;
+	left: 430px;
+	font-size: 60px;
+	z-index:11;
+}
+@font-face{
+ font-family:TEXTO2;
+ src: url(BabySnowmanDisplay.ttf);	
+}
+.TEXTO3{
+	font-family:TEXTO3;
+	 position: absolute;
+	top: 190px;
+	left: 390px;
+	font-size: 30px;
+	z-index:11;
+}
+@font-face{
+ font-family:TEXTO3;
+ src: url(aAhaWow.ttf);	
+}
+.PLUMAS1{
+	 position: absolute;
+	top: 150px;
+	left: 880px;
+	width: 150px;
+	height:250px;
+	background: url("PLUMAS.png");
+	background-size: cover;
+	transform: rotate(-75deg);
+	z-index:10;
+
+}
+.PLUMAS2{
+	 position: absolute;
+	top: 150px;
+	left: 250px;
+	width: 150px;
+	height: 250px;
+	background: url("PLUMAS.png");
+	background-size: cover;
+	transform: rotate(75deg);
+	z-index:10;
+
+}
+
+.CARNAVAL{
+	font-family:CARNAVAL;
+	 position: absolute;
+	top: 530px;
+	left: 500px;
+	font-size: 80px;
+	z-index:11;
+}
+@font-face{
+ font-family:CARNAVAL;
+ src: url(aAhaWow.ttf);	
+}

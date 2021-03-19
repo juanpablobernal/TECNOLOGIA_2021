@@ -1,0 +1,6 @@
+.EJEMPLO
+{
+	z-index:2; "superponer capas"
+	transform: rotate(-45deg); "rotar los objetos"
+	border-radius: 200px; "poner circular" 
+}
